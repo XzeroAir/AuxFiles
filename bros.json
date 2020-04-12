@@ -1,14 +1,26 @@
 [
   {
-    "token": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
-    "Username": "XzeroAir"
+    "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
+    "Username": "XzeroAir",
+    "Quotes": [
+      "Hello",
+      "World!"
+    ]
   },
   {
-    "token": "7f184d63-9f9c-47a7-be03-8382145fb2c2",
-    "Username": "sub2pewdiepie12"
+    "ID": "7f184d63-9f9c-47a7-be03-8382145fb2c2",
+    "Username": "sub2pewdiepie12",
+    "Quotes": [
+      "Hello",
+      "World!"
+    ]
   },
   {
-    "token": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
-    "Username": "Shivaxi"
+    "ID": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
+    "Username": "Shivaxi",
+    "Quotes": [
+      "Hello",
+      "World!"
+    ]
   }
 ]

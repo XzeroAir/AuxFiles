@@ -1,10 +1,18 @@
 [
   {
-    "token": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
-    "Username": "XzeroAir"
+    "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
+    "Username": "XzeroAir",
+    "Quotes": [
+      "Hello",
+      "World!"
+    ]
   },
   {
-    "token": "5a215d65-e57d-47c6-a322-9ede12a4a100",
-    "Username": "PotasticP"
+    "ID": "5a215d65-e57d-47c6-a322-9ede12a4a100",
+    "Username": "PotasticP",
+    "Quotes": [
+      "Hello",
+      "World!"
+    ]
   }
 ]
