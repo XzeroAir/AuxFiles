@@ -1,0 +1,108 @@
+{
+  "Bees": {
+    "users": [
+      {
+        "ID": "7d50a302-a01c-4e6a-8ea4-03f98662df28",
+        "Username": "Stingin18",
+        "Quotes": [
+          "Reeeeeeee!",
+          "Zero Deaths!",
+          "Is math related to science?",
+          "Applesauce!"
+        ]
+      }
+    ]
+  },
+  "Bros": {
+    "users": [
+      {
+        "ID": "7f184d63-9f9c-47a7-be03-8382145fb2c2",
+        "Username": "pewdiepie_epic",
+        "Quotes": [
+          "Reeeeeeee!",
+          "Zero Deaths!",
+          "Is math related to science?",
+          "Applesauce!"
+        ]
+      },
+      {
+        "ID": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
+        "Username": "Shivaxi",
+        "Quotes": [
+          "Reeeeeeee!",
+          "Zero Deaths!",
+          "Is math related to science?",
+          "Applesauce!"
+        ]
+      }
+    ]
+  },
+  "Pandas": {
+    "users": [
+      {
+        "ID": "5a215d65-e57d-47c6-a322-9ede12a4a100",
+        "Username": "PotasticP",
+        "Quotes": [
+          "Panda!",
+          "Yay~ Snacks!",
+          "*sniffle*",
+          "*Loud marching noises*"
+        ]
+      }
+    ]
+  },
+  "VIPs": {
+    "users": [
+      {
+        "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
+        "Username": "XzeroAir",
+        "Quotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      },
+      {
+        "ID": "854adc0b-ae55-48d6-b7ba-e641a1eebf42",
+        "Username": "NyanMinecrafter",
+        "Quotes": [
+          "Not even the power of 4 furries can stop me!",
+          "Not Today Furries!",
+          "Cleaning up this cringefest is gonna be a chore. and painful",
+          "Can i get some assistance with taking out these furries?"
+        ]
+      },
+      {
+        "ID": "8617353f-d283-4b72-95c0-8d39300613da",
+        "Username": "TehMadTitan",
+        "Quotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      },
+      {
+        "ID": "b76a7d77-a662-4f18-8f32-a26d97e81098",
+        "Username": "NPC_NAME",
+        "Quotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      },
+      {
+        "ID": "b0adb444-cf9c-43c2-9946-a8137e94ca7f",
+        "Username": "yuttgyh",
+        "Quotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      }
+    ]
+  }
+}
