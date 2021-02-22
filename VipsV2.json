@@ -1,10 +1,38 @@
 {
-  "Bees": {
-    "users": [
+  "5a215d65e57d47c6a3229ede12a4a100": {
+    "ID": "5a215d65-e57d-47c6-a322-9ede12a4a100",
+    "Username": "PotasticP",
+    "Quotes": [
+      "Panda!",
+      "Yay~ Snacks!",
+      "*sniffle*",
+      "*Loud marching noises*"
+    ],
+    "Groups": [
       {
-        "ID": "7d50a302-a01c-4e6a-8ea4-03f98662df28",
-        "Username": "Stingin18",
-        "Quotes": [
+        "group": "Krewsaders",
+        "groupQuotes": [
+          "For The Panda Queen!",
+          "The Panda Queen calls me!",
+          "The Panda Queen Blesses me!",
+          "Brethren rise!"
+        ]
+      }
+    ]
+  },
+  "7d50a302a01c4e6a8ea403f98662df28": {
+    "ID": "7d50a302-a01c-4e6a-8ea4-03f98662df28",
+    "Username": "Stingin18",
+    "Quotes": [
+      "Reeeeeeee!",
+      "Zero Deaths!",
+      "Is math related to science?",
+      "Applesauce!"
+    ],
+    "Groups": [
+      {
+        "group": "Hive Squad",
+        "groupQuotes": [
           "Reeeeeeee!",
           "Zero Deaths!",
           "Is math related to science?",
@@ -13,22 +41,19 @@
       }
     ]
   },
-  "Bros": {
-    "users": [
+  "7f184d639f9c47a7be038382145fb2c2": {
+    "ID": "7f184d63-9f9c-47a7-be03-8382145fb2c2",
+    "Username": "pewdiepie_epic",
+    "Quotes": [
+      "Reeeeeeee!",
+      "Zero Deaths!",
+      "Is math related to science?",
+      "Applesauce!"
+    ],
+    "Groups": [
       {
-        "ID": "7f184d63-9f9c-47a7-be03-8382145fb2c2",
-        "Username": "pewdiepie_epic",
-        "Quotes": [
-          "Reeeeeeee!",
-          "Zero Deaths!",
-          "Is math related to science?",
-          "Applesauce!"
-        ]
-      },
-      {
-        "ID": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
-        "Username": "Shivaxi",
-        "Quotes": [
+        "group": "Bros",
+        "groupQuotes": [
           "Reeeeeeee!",
           "Zero Deaths!",
           "Is math related to science?",
@@ -37,66 +62,99 @@
       }
     ]
   },
-  "Pandas": {
-    "users": [
+  "854adc0bae5548d6b7bae641a1eebf42": {
+    "ID": "854adc0b-ae55-48d6-b7ba-e641a1eebf42",
+    "Username": "NyanMinecrafter",
+    "Quotes": [
+      "Not even the power of 4 furries can stop me!",
+      "Not Today Furries!",
+      "Cleaning up this cringefest is gonna be a chore. and painful",
+      "Can i get some assistance with taking out these furries?"
+    ],
+    "Groups": [
       {
-        "ID": "5a215d65-e57d-47c6-a322-9ede12a4a100",
-        "Username": "PotasticP",
-        "Quotes": [
-          "Panda!",
-          "Yay~ Snacks!",
-          "*sniffle*",
-          "*Loud marching noises*"
+        "group": "Vips",
+        "groupQuotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
         ]
       }
     ]
   },
-  "VIPs": {
-    "users": [
+  "8617353fd2834b7295c08d39300613da": {
+    "ID": "8617353f-d283-4b72-95c0-8d39300613da",
+    "Username": "TehMadTitan",
+    "Quotes": [],
+    "Groups": [
       {
-        "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
-        "Username": "XzeroAir",
-        "Quotes": [
+        "group": "Vips",
+        "groupQuotes": [
           "Omae wa mou shindeiru!",
           "Nani!",
           "Za warudo!!",
           "OH NO!"
         ]
-      },
+      }
+    ]
+  },
+  "b0adb444cf9c43c29946a8137e94ca7f": {
+    "ID": "b0adb444-cf9c-43c2-9946-a8137e94ca7f",
+    "Username": "yuttgyh",
+    "Quotes": [],
+    "Groups": [
       {
-        "ID": "854adc0b-ae55-48d6-b7ba-e641a1eebf42",
-        "Username": "NyanMinecrafter",
-        "Quotes": [
-          "Not even the power of 4 furries can stop me!",
-          "Not Today Furries!",
-          "Cleaning up this cringefest is gonna be a chore. and painful",
-          "Can i get some assistance with taking out these furries?"
-        ]
-      },
-      {
-        "ID": "8617353f-d283-4b72-95c0-8d39300613da",
-        "Username": "TehMadTitan",
-        "Quotes": [
+        "group": "Vips",
+        "groupQuotes": [
           "Omae wa mou shindeiru!",
           "Nani!",
           "Za warudo!!",
           "OH NO!"
         ]
-      },
+      }
+    ]
+  },
+  "b76a7d77a6624f188f32a26d97e81098": {
+    "ID": "b76a7d77-a662-4f18-8f32-a26d97e81098",
+    "Username": "NPC_NAME",
+    "Quotes": [],
+    "Groups": [
       {
-        "ID": "b76a7d77-a662-4f18-8f32-a26d97e81098",
-        "Username": "NPC_NAME",
-        "Quotes": [
+        "group": "Vips",
+        "groupQuotes": [
           "Omae wa mou shindeiru!",
           "Nani!",
           "Za warudo!!",
           "OH NO!"
         ]
-      },
+      }
+    ]
+  },
+  "cdfccefb1a2e4fb8a3b5041da27fde61": {
+    "ID": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
+    "Username": "Shivaxi",
+    "Quotes": [],
+    "Groups": [
       {
-        "ID": "b0adb444-cf9c-43c2-9946-a8137e94ca7f",
-        "Username": "yuttgyh",
-        "Quotes": [
+        "group": "Bros",
+        "groupQuotes": [
+          "Reeeeeeee!",
+          "Zero Deaths!",
+          "Is math related to science?",
+          "Applesauce!"
+        ]
+      }
+    ]
+  },
+  "f5f286144e8b4788ae78b020493dc5cb": {
+    "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
+    "Username": "XzeroAir",
+    "Quotes": [],
+    "Groups": [
+      {
+        "group": "Vips",
+        "groupQuotes": [
           "Omae wa mou shindeiru!",
           "Nani!",
           "Za warudo!!",
