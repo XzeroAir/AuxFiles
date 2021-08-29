@@ -171,5 +171,22 @@
         ]
       }
     ]
+  },
+  "14bba455affa46d09cf0806cc0f3d454": {
+    "ID": "14bba455-affa-46d0-9cf0-806cc0f3d454",
+    "Username": "ArtsyDy",
+    "Quotes": [],
+    "Groups": [
+      {
+        "group": "Vips",
+        "id": 4,
+        "groupQuotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      }
+    ]
   }
 }
