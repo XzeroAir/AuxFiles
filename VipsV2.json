@@ -299,9 +299,26 @@
 				"group": "Vips",
 				"id": 1,
 				"groupQuotes": [
-					"Omae wa mou shindeiru!",
+					"Ow!",
 					"Nani!",
-					"Za warudo!!",
+					"That Tickles!",
+					"OH NO!"
+				]
+			}
+		]
+	},
+	"c0ed3a7c31bd4989bc75cdd147e7ae8c": {
+		"ID": "c0ed3a7c-31bd-4989-bc75-cdd147e7ae8c",
+		"Username": "KameiB",
+		"Quotes": [],
+		"Groups": [
+			{
+				"group": "Vips",
+				"id": 1,
+				"groupQuotes": [
+					"Ow!",
+					"Nani!",
+					"That Tickles!",
 					"OH NO!"
 				]
 			}
