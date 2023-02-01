@@ -357,5 +357,22 @@
 				]
 			}
 		]
+	},
+	"0c87511ff3c042f18aad547580ad08f1": {
+		"ID": "0c87511f-f3c0-42f1-8aad-547580ad08f1",
+		"Username": "Stranding",
+		"Quotes": [],
+		"Groups": [
+			{
+				"group": "Vips",
+				"id": 1,
+				"groupQuotes": [
+					"Ow!",
+					"Nani!",
+					"That Tickles!",
+					"OH NO!"
+				]
+			}
+		]
 	}
 }
