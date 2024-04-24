@@ -358,6 +358,23 @@
 			}
 		]
 	},
+	"b4817e56db304fdb9c4cbba3e0378e0a": {
+		"ID": "b4817e56-db30-4fdb-9c4c-bba3e0378e0a",
+		"Username": "RixxiRustrivet",
+		"Quotes": [],
+		"Groups": [
+			{
+				"group": "Vips",
+				"id": 1,
+				"groupQuotes": [
+					"Ow Dragon!",
+					"I Do what I want!",
+					"You're no Gentlemen gamer!",
+					"So Edgy!"
+				]
+			}
+		]
+	},
 	"0c87511ff3c042f18aad547580ad08f1": {
 		"ID": "0c87511f-f3c0-42f1-8aad-547580ad08f1",
 		"Username": "Stranding",
