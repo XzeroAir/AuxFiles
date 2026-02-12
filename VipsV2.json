@@ -239,6 +239,23 @@
 			}
 		]
 	},
+	"cae1dd21d59b4a188abd51b05bac0500": {
+		"ID": "cae1dd21-d59b-4a18-8abd-51b05bac0500",
+		"Username": "XzeroAir",
+		"Quotes": [],
+		"Groups": [
+			{
+				"group": "Vips",
+				"id": 1,
+				"groupQuotes": [
+					"Omae wa mou shindeiru!",
+					"Nani!",
+					"Za warudo!!",
+					"OH NO!"
+				]
+			}
+		]
+	},
 	"14bba455affa46d09cf0806cc0f3d454": {
 		"ID": "14bba455-affa-46d0-9cf0-806cc0f3d454",
 		"Username": "ArtsyDy",
@@ -316,10 +333,10 @@
 				"group": "Vips",
 				"id": 1,
 				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
+					"¡Ni me dolió!",
+					"¡Soy Moltres, el Guajolote Macías!",
+					"No coman sopa de tortuga",
+					"¡Por el poder de la ñ!"
 				]
 			}
 		]
