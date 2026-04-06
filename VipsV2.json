@@ -443,6 +443,23 @@
 			}
 		]
 	},
+	"41284a3c382f4ec5a988666c483026cc": {
+		"ID": "41284a3c-382f-4ec5-a988-666c483026cc",
+		"Username": "E_lectro",
+		"Quotes": [],
+		"Groups": [
+			{
+				"group": "Vips",
+				"id": 1,
+				"groupQuotes": [
+					"Ow!",
+					"Nani!",
+					"That Tickles!",
+					"OH NO!"
+				]
+			}
+		]
+	},
 	"37ee44015b1048f1bdd305037bef612f": {
 		"ID": "37ee4401-5b10-48f1-bdd3-05037bef612f",
 		"Username": "xQcOW",
