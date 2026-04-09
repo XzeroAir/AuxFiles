@@ -460,6 +460,23 @@
 			}
 		]
 	},
+	"c6cbbc0f3b574cd7961c42edfe6e71f3": {
+		"ID": "c6cbbc0f-3b57-4cd7-961c-42edfe6e71f3",
+		"Username": "craftoes",
+		"Quotes": [],
+		"Groups": [
+			{
+				"group": "Vips",
+				"id": 1,
+				"groupQuotes": [
+					"Ow!",
+					"Nani!",
+					"That Tickles!",
+					"OH NO!"
+				]
+			}
+		]
+	},
 	"37ee44015b1048f1bdd305037bef612f": {
 		"ID": "37ee4401-5b10-48f1-bdd3-05037bef612f",
 		"Username": "xQcOW",
