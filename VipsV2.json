@@ -1,497 +1,521 @@
 {
-	"5a215d65e57d47c6a3229ede12a4a100": {
-		"ID": "5a215d65-e57d-47c6-a322-9ede12a4a100",
-		"Username": "PotasticP",
-		"Quotes": [
-			"Panda!",
-			"Yay~ Snacks!",
-			"*sniffle*",
-			"*Loud marching noises*"
-		],
-		"Groups": [
-			{
-				"group": "Krewsaders",
-				"id": 3,
-				"groupQuotes": [
-					"For The Panda Queen!",
-					"The Panda Queen calls me!",
-					"The Panda Queen Blesses me!",
-					"Brethren rise!"
-				]
-			}
-		]
-	},
-	"7d50a302a01c4e6a8ea403f98662df28": {
-		"ID": "7d50a302-a01c-4e6a-8ea4-03f98662df28",
-		"Username": "Stingin18",
-		"Quotes": [
-			"Can we get some Hype in the chat!?",
-			"This is a family friendly channel sir",
-			"Get Stung!",
-			"Pog!"
-		],
-		"Groups": [
-			{
-				"group": "Hive Squad",
-				"id": 1,
-				"groupQuotes": [
-					"Can we get some Hype in the chat!?",
-					"This is a family friendly channel sir",
-					"Get Stung!",
-					"Pog!"
-				]
-			}
-		]
-	},
-	"7f184d639f9c47a7be038382145fb2c2": {
-		"ID": "7f184d63-9f9c-47a7-be03-8382145fb2c2",
-		"Username": "pewdiepie_epic",
-		"Quotes": [
-			"Reeeeeeee!",
-			"Zero Deaths!",
-			"Is math related to science?",
-			"Applesauce!"
-		],
-		"Groups": [
-			{
-				"group": "Bros",
-				"id": 2,
-				"groupQuotes": [
-					"Reeeeeeee!",
-					"Zero Deaths!",
-					"Is math related to science?",
-					"Applesauce!"
-				]
-			}
-		]
-	},
-	"854adc0bae5548d6b7bae641a1eebf42": {
-		"ID": "854adc0b-ae55-48d6-b7ba-e641a1eebf42",
-		"Username": "ChromaNyan",
-		"Quotes": [
-			":lancer:",
-			"i live to get shredded from a single attack another day.",
-			"if not dead then keepfighting() end"
-		],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"8617353fd2834b7295c08d39300613da": {
-		"ID": "8617353f-d283-4b72-95c0-8d39300613da",
-		"Username": "TehMadTitan",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"b0adb444cf9c43c29946a8137e94ca7f": {
-		"ID": "b0adb444-cf9c-43c2-9946-a8137e94ca7f",
-		"Username": "yuttgyh",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"b76a7d77a6624f188f32a26d97e81098": {
-		"ID": "b76a7d77-a662-4f18-8f32-a26d97e81098",
-		"Username": "NPC_NAME",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"cdfccefb1a2e4fb8a3b5041da27fde61": {
-		"ID": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
-		"Username": "Shivaxi",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Bros",
-				"id": 2,
-				"groupQuotes": [
-					"Reeeeeeee!",
-					"Zero Deaths!",
-					"Is math related to science?",
-					"Applesauce!"
-				]
-			}
-		]
-	},
-	"f00f8ba2491c4b7daafdddf5b6aa2074": {
-		"ID": "f00f8ba2-491c-4b7d-aafd-ddf5b6aa2074",
-		"Username": "Charles445",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Reeeeeeee!",
-					"Zero Deaths!",
-					"Is math related to science?",
-					"Applesauce!"
-				]
-			}
-		]
-	},
-	"648ab92be04543c8af1e85a069d7bf42": {
-		"ID": "648ab92b-e045-43c8-af1e-85a069d7bf42",
-		"Username": "fonnymunkey",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Reeeeeeee!",
-					"Zero Deaths!",
-					"Is math related to science?",
-					"Applesauce!"
-				]
-			}
-		]
-	},
-	"c22060d51a15423c85b53fd0e0c88619": {
-		"ID": "c22060d5-1a15-423c-85b5-3fd0e0c88619",
-		"Username": "xcube",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Reeeeeeee!",
-					"Zero Deaths!",
-					"Is math related to science?",
-					"Applesauce!"
-				]
-			}
-		]
-	},
-	"dd2d18a378664c1d976572a2eb336f4f": {
-		"ID": "dd2d18a3-7866-4c1d-9765-72a2eb336f4f",
-		"Username": "Icebelly",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Reeeeeeee!",
-					"Zero Deaths!",
-					"Is math related to science?",
-					"Applesauce!"
-				]
-			}
-		]
-	},
-	"f5f286144e8b4788ae78b020493dc5cb": {
-		"ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
-		"Username": "XzeroAir",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"cae1dd21d59b4a188abd51b05bac0500": {
-		"ID": "cae1dd21-d59b-4a18-8abd-51b05bac0500",
-		"Username": "XzeroAir",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"14bba455affa46d09cf0806cc0f3d454": {
-		"ID": "14bba455-affa-46d0-9cf0-806cc0f3d454",
-		"Username": "ArtsyDy",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 4,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"b2b629a6454e4047a1434f357171d639": {
-		"ID": "b2b629a6-454e-4047-a143-4f357171d639",
-		"Username": "Twi1ightStar",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 5,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"a48cbc50a05d41608ab7c6969345e260": {
-		"ID": "a48cbc50-a05d-4160-8ab7-c6969345e260",
-		"Username": "Rateb",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Omae wa mou shindeiru!",
-					"Nani!",
-					"Za warudo!!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"2aec2d00c55f42358e37cf0140fae979": {
-		"ID": "2aec2d00-c55f-4235-8e37-cf0140fae979",
-		"Username": "BabzyJae",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"c0ed3a7c31bd4989bc75cdd147e7ae8c": {
-		"ID": "c0ed3a7c-31bd-4989-bc75-cdd147e7ae8c",
-		"Username": "KameiB",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"¡Ni me dolió!",
-					"¡Soy Moltres, el Guajolote Macías!",
-					"No coman sopa de tortuga",
-					"¡Por el poder de la ñ!"
-				]
-			}
-		]
-	},
-	"369a3e3f371c4ce6ba4448c3eb91ce8b": {
-		"ID": "369a3e3f-371c-4ce6-ba44-48c3eb91ce8b",
-		"Username": "rayquazafallout",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"6e6cc84d6d4d41a4ba8b47d786b00bae": {
-		"ID": "6e6cc84d-6d4d-41a4-ba8b-47d786b00bae",
-		"Username": "CowSaysBOOM",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow Dragon!",
-					"I Do what I want!",
-					"You're no Gentlemen gamer!",
-					"So Edgy!"
-				]
-			}
-		]
-	},
-	"b4817e56db304fdb9c4cbba3e0378e0a": {
-		"ID": "b4817e56-db30-4fdb-9c4c-bba3e0378e0a",
-		"Username": "RixxiRustrivet",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow Dragon!",
-					"I Do what I want!",
-					"You're no Gentlemen gamer!",
-					"So Edgy!"
-				]
-			}
-		]
-	},
-	"0c87511ff3c042f18aad547580ad08f1": {
-		"ID": "0c87511f-f3c0-42f1-8aad-547580ad08f1",
-		"Username": "Stranding",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"aef2dcf999364662abe00e7a82e3cacc": {
-		"ID": "aef2dcf9-9936-4662-abe0-0e7a82e3cacc",
-		"Username": "JustBlueTea",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"2cda280f25474f0c88b305fa236c4bf4": {
-		"ID": "2cda280f-2547-4f0c-88b3-05fa236c4bf4",
-		"Username": "Kotlin_Dev",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"41284a3c382f4ec5a988666c483026cc": {
-		"ID": "41284a3c-382f-4ec5-a988-666c483026cc",
-		"Username": "E_lectro",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"c6cbbc0f3b574cd7961c42edfe6e71f3": {
-		"ID": "c6cbbc0f-3b57-4cd7-961c-42edfe6e71f3",
-		"Username": "craftoes",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Ow!",
-					"Nani!",
-					"That Tickles!",
-					"OH NO!"
-				]
-			}
-		]
-	},
-	"37ee44015b1048f1bdd305037bef612f": {
-		"ID": "37ee4401-5b10-48f1-bdd3-05037bef612f",
-		"Username": "xQcOW",
-		"Quotes": [],
-		"Groups": [
-			{
-				"group": "Vips",
-				"id": 1,
-				"groupQuotes": [
-					"Do turtles spawn with shells?",
-					"The sun is a planet",
-					"You need a little bit of rain to have a little bit of rainbow",
-					"The result is irrelevant because the effort was there"
-				]
-			}
-		]
-	}
+    "5a215d65e57d47c6a3229ede12a4a100": {
+        "ID": "5a215d65-e57d-47c6-a322-9ede12a4a100",
+        "Username": "PotasticP",
+        "Quotes": [
+            "Panda!",
+            "Yay~ Snacks!",
+            "*sniffle*",
+            "*Loud marching noises*"
+        ],
+        "Groups": [
+            {
+                "group": "Krewsaders",
+                "id": 3,
+                "groupQuotes": [
+                    "For The Panda Queen!",
+                    "The Panda Queen calls me!",
+                    "The Panda Queen Blesses me!",
+                    "Brethren rise!"
+                ]
+            }
+        ]
+    },
+    "7d50a302a01c4e6a8ea403f98662df28": {
+        "ID": "7d50a302-a01c-4e6a-8ea4-03f98662df28",
+        "Username": "Stingin18",
+        "Quotes": [
+            "Can we get some Hype in the chat!?",
+            "This is a family friendly channel sir",
+            "Get Stung!",
+            "Pog!"
+        ],
+        "Groups": [
+            {
+                "group": "Hive Squad",
+                "id": 1,
+                "groupQuotes": [
+                    "Can we get some Hype in the chat!?",
+                    "This is a family friendly channel sir",
+                    "Get Stung!",
+                    "Pog!"
+                ]
+            }
+        ]
+    },
+    "7f184d639f9c47a7be038382145fb2c2": {
+        "ID": "7f184d63-9f9c-47a7-be03-8382145fb2c2",
+        "Username": "pewdiepie_epic",
+        "Quotes": [
+            "Reeeeeeee!",
+            "Zero Deaths!",
+            "Is math related to science?",
+            "Applesauce!"
+        ],
+        "Groups": [
+            {
+                "group": "Bros",
+                "id": 2,
+                "groupQuotes": [
+                    "Reeeeeeee!",
+                    "Zero Deaths!",
+                    "Is math related to science?",
+                    "Applesauce!"
+                ]
+            }
+        ]
+    },
+    "854adc0bae5548d6b7bae641a1eebf42": {
+        "ID": "854adc0b-ae55-48d6-b7ba-e641a1eebf42",
+        "Username": "ChromaNyan",
+        "Quotes": [
+            ":lancer:",
+            "i live to get shredded from a single attack another day.",
+            "if not dead then keepfighting() end"
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "8617353fd2834b7295c08d39300613da": {
+        "ID": "8617353f-d283-4b72-95c0-8d39300613da",
+        "Username": "TehMadTitan",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "b0adb444cf9c43c29946a8137e94ca7f": {
+        "ID": "b0adb444-cf9c-43c2-9946-a8137e94ca7f",
+        "Username": "yuttgyh",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "b76a7d77a6624f188f32a26d97e81098": {
+        "ID": "b76a7d77-a662-4f18-8f32-a26d97e81098",
+        "Username": "NPC_NAME",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "cdfccefb1a2e4fb8a3b5041da27fde61": {
+        "ID": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
+        "Username": "Shivaxi",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Bros",
+                "id": 2,
+                "groupQuotes": [
+                    "Reeeeeeee!",
+                    "Zero Deaths!",
+                    "Is math related to science?",
+                    "Applesauce!"
+                ]
+            }
+        ]
+    },
+    "f00f8ba2491c4b7daafdddf5b6aa2074": {
+        "ID": "f00f8ba2-491c-4b7d-aafd-ddf5b6aa2074",
+        "Username": "Charles445",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Reeeeeeee!",
+                    "Zero Deaths!",
+                    "Is math related to science?",
+                    "Applesauce!"
+                ]
+            }
+        ]
+    },
+    "648ab92be04543c8af1e85a069d7bf42": {
+        "ID": "648ab92b-e045-43c8-af1e-85a069d7bf42",
+        "Username": "fonnymunkey",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Reeeeeeee!",
+                    "Zero Deaths!",
+                    "Is math related to science?",
+                    "Applesauce!"
+                ]
+            }
+        ]
+    },
+    "c22060d51a15423c85b53fd0e0c88619": {
+        "ID": "c22060d5-1a15-423c-85b5-3fd0e0c88619",
+        "Username": "xcube",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Reeeeeeee!",
+                    "Zero Deaths!",
+                    "Is math related to science?",
+                    "Applesauce!"
+                ]
+            }
+        ]
+    },
+    "dd2d18a378664c1d976572a2eb336f4f": {
+        "ID": "dd2d18a3-7866-4c1d-9765-72a2eb336f4f",
+        "Username": "Icebelly",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Reeeeeeee!",
+                    "Zero Deaths!",
+                    "Is math related to science?",
+                    "Applesauce!"
+                ]
+            }
+        ]
+    },
+    "f5f286144e8b4788ae78b020493dc5cb": {
+        "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
+        "Username": "XzeroAir",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "cae1dd21d59b4a188abd51b05bac0500": {
+        "ID": "cae1dd21-d59b-4a18-8abd-51b05bac0500",
+        "Username": "XzeroAir",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "14bba455affa46d09cf0806cc0f3d454": {
+        "ID": "14bba455-affa-46d0-9cf0-806cc0f3d454",
+        "Username": "ArtsyDy",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 4,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "b2b629a6454e4047a1434f357171d639": {
+        "ID": "b2b629a6-454e-4047-a143-4f357171d639",
+        "Username": "Twi1ightStar",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 5,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "a48cbc50a05d41608ab7c6969345e260": {
+        "ID": "a48cbc50-a05d-4160-8ab7-c6969345e260",
+        "Username": "Rateb",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "2aec2d00c55f42358e37cf0140fae979": {
+        "ID": "2aec2d00-c55f-4235-8e37-cf0140fae979",
+        "Username": "BabzyJae",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow!",
+                    "Nani!",
+                    "That Tickles!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "c0ed3a7c31bd4989bc75cdd147e7ae8c": {
+        "ID": "c0ed3a7c-31bd-4989-bc75-cdd147e7ae8c",
+        "Username": "KameiB",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "¡Ni me dolió!",
+                    "¡Soy Moltres, el Guajolote Macías!",
+                    "No coman sopa de tortuga",
+                    "¡Por el poder de la ñ!"
+                ]
+            }
+        ]
+    },
+    "369a3e3f371c4ce6ba4448c3eb91ce8b": {
+        "ID": "369a3e3f-371c-4ce6-ba44-48c3eb91ce8b",
+        "Username": "rayquazafallout",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow!",
+                    "Nani!",
+                    "That Tickles!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "6e6cc84d6d4d41a4ba8b47d786b00bae": {
+        "ID": "6e6cc84d-6d4d-41a4-ba8b-47d786b00bae",
+        "Username": "CowSaysBOOM",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow Dragon!",
+                    "I Do what I want!",
+                    "You're no Gentlemen gamer!",
+                    "So Edgy!"
+                ]
+            }
+        ]
+    },
+    "b4817e56db304fdb9c4cbba3e0378e0a": {
+        "ID": "b4817e56-db30-4fdb-9c4c-bba3e0378e0a",
+        "Username": "RixxiRustrivet",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow Dragon!",
+                    "I Do what I want!",
+                    "You're no Gentlemen gamer!",
+                    "So Edgy!"
+                ]
+            }
+        ]
+    },
+    "0c87511ff3c042f18aad547580ad08f1": {
+        "ID": "0c87511f-f3c0-42f1-8aad-547580ad08f1",
+        "Username": "Stranding",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow!",
+                    "Nani!",
+                    "That Tickles!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "aef2dcf999364662abe00e7a82e3cacc": {
+        "ID": "aef2dcf9-9936-4662-abe0-0e7a82e3cacc",
+        "Username": "JustBlueTea",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow!",
+                    "Nani!",
+                    "That Tickles!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "2cda280f25474f0c88b305fa236c4bf4": {
+        "ID": "2cda280f-2547-4f0c-88b3-05fa236c4bf4",
+        "Username": "Kotlin_Dev",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow!",
+                    "Nani!",
+                    "That Tickles!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "41284a3c382f4ec5a988666c483026cc": {
+        "ID": "41284a3c-382f-4ec5-a988-666c483026cc",
+        "Username": "E_lectro",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow!",
+                    "Nani!",
+                    "That Tickles!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "c6cbbc0f3b574cd7961c42edfe6e71f3": {
+        "ID": "c6cbbc0f-3b57-4cd7-961c-42edfe6e71f3",
+        "Username": "craftoes",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Ow!",
+                    "Nani!",
+                    "That Tickles!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "37ee44015b1048f1bdd305037bef612f": {
+        "ID": "37ee4401-5b10-48f1-bdd3-05037bef612f",
+        "Username": "xQcOW",
+        "Quotes": [
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Do turtles spawn with shells?",
+                    "The sun is a planet",
+                    "You need a little bit of rain to have a little bit of rainbow",
+                    "The result is irrelevant because the effort was there"
+                ]
+            }
+        ]
+    }
 }
