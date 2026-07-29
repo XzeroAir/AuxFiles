@@ -517,5 +517,115 @@
                 ]
             }
         ]
+    },
+    "9046373a2c334708819a524364b7ad52": {
+        "ID": "9046373a-2c33-4708-819a-524364b7ad52",
+        "Username": "The__Osiris",
+        "Quotes": [
+            "Omae wa mou shindeiru!",
+            "Nani!",
+            "Za warudo!!",
+            "OH NO!"
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "1a2618c7cb994f17b71567405841b418": {
+        "ID": "1a2618c7-cb99-4f17-b715-67405841b418",
+        "Username": "Nanonaitor",
+        "Quotes": [
+            "Omae wa mou shindeiru!",
+            "Nani!",
+            "Za warudo!!",
+            "OH NO!"
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "f9ffcb44f1454e2f948aac8ba9751264": {
+        "ID": "f9ffcb44-f145-4e2f-948a-ac8ba9751264",
+        "Username": "KekPriestessKeki",
+        "Quotes": [
+            "Omae wa mou shindeiru!",
+            "Nani!",
+            "Za warudo!!",
+            "OH NO!"
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "b322288164b841ea982b0b88f7564047": {
+        "ID": "b3222881-64b8-41ea-982b-0b88f7564047",
+        "Username": "ShyPlox",
+        "Quotes": [
+            "Omae wa mou shindeiru!",
+            "Nani!",
+            "Za warudo!!",
+            "OH NO!"
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
+    },
+    "eb8c824d6f8540478ca1f50c8e50bfe0": {
+        "ID": "eb8c824d-6f85-4047-8ca1-f50c8e50bfe0",
+        "Username": "Nischhelm",
+        "Quotes": [
+            "Omae wa mou shindeiru!",
+            "Nani!",
+            "Za warudo!!",
+            "OH NO!"
+        ],
+        "Groups": [
+            {
+                "group": "Vips",
+                "id": 1,
+                "groupQuotes": [
+                    "Omae wa mou shindeiru!",
+                    "Nani!",
+                    "Za warudo!!",
+                    "OH NO!"
+                ]
+            }
+        ]
     }
 }

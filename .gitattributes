@@ -1,0 +1,4 @@
+# AuxFiles data is UTF-8 text with LF line endings.
+*.json text eol=lf working-tree-encoding=UTF-8
+.gitattributes text eol=lf working-tree-encoding=UTF-8
+.gitignore text eol=lf working-tree-encoding=UTF-8
