@@ -1,37 +1,26 @@
 [
   {
-    "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
-    "Username": "XzeroAir",
+    "ID": "7d50a302-a01c-4e6a-8ea4-03f98662df28",
+    "Username": "Stingin18",
     "Quotes": [
-      "Omae wa mou shindeiru!",
-      "Nani!",
-      "Za warudo!!",
-      "OH NO!"
+      "Can we get some Hype in the chat!?",
+      "This is a family friendly channel sir",
+      "Get Stung!",
+      "Pog!"
     ]
   },
   {
     "ID": "854adc0b-ae55-48d6-b7ba-e641a1eebf42",
-    "Username": "NyanMinecrafter",
+    "Username": "ChromaNyan",
     "Quotes": [
-      "not even the power of 4 furries can stop me!",
-      "Not Today Furries!",
-      "cleaning up this cringefest is gonna be a chore. and painful",
-      "can i get some assistance with taking out these furries?"
+      ":lancer:",
+      "i live to get shredded from a single attack another day.",
+      "if not dead then keepfighting() end"
     ]
   },
   {
     "ID": "8617353f-d283-4b72-95c0-8d39300613da",
     "Username": "TehMadTitan",
-    "Quotes": [
-      "Omae wa mou shindeiru!",
-      "Nani!",
-      "Za warudo!!",
-      "OH NO!"
-    ]
-  },
-  {
-    "ID": "b76a7d77-a662-4f18-8f32-a26d97e81098",
-    "Username": "Zonic_Tonic",
     "Quotes": [
       "Omae wa mou shindeiru!",
       "Nani!",
@@ -50,8 +39,8 @@
     ]
   },
   {
-    "ID": "14bba455-affa-46d0-9cf0-806cc0f3d454",
-    "Username": "ArtsyDy",
+    "ID": "b76a7d77-a662-4f18-8f32-a26d97e81098",
+    "Username": "NPC_NAME",
     "Quotes": [
       "Omae wa mou shindeiru!",
       "Nani!",
@@ -60,28 +49,8 @@
     ]
   },
   {
-    "ID": "9046373a-2c33-4708-819a-524364b7ad52",
-    "Username": "The__Osiris",
-    "Quotes": [
-      "Omae wa mou shindeiru!",
-      "Nani!",
-      "Za warudo!!",
-      "OH NO!"
-    ]
-  },
-  {
-    "ID": "b2b629a6-454e-4047-a143-4f357171d639",
-    "Username": "Twi1ightStar",
-    "Quotes": [
-      "Omae wa mou shindeiru!",
-      "Nani!",
-      "Za warudo!!",
-      "OH NO!"
-    ]
-  },
-  {
-    "ID": "2aec2d00-c55f-4235-8e37-cf0140fae979",
-    "Username": "BabzyJae",
+    "ID": "cdfccefb-1a2e-4fb8-a3b5-041da27fde61",
+    "Username": "Shivaxi",
     "Quotes": [
       "Omae wa mou shindeiru!",
       "Nani!",
@@ -130,8 +99,38 @@
     ]
   },
   {
+    "ID": "f5f28614-4e8b-4788-ae78-b020493dc5cb",
+    "Username": "XzeroAir",
+    "Quotes": [
+      "Omae wa mou shindeiru!",
+      "Nani!",
+      "Za warudo!!",
+      "OH NO!"
+    ]
+  },
+  {
     "ID": "cae1dd21-d59b-4a18-8abd-51b05bac0500",
     "Username": "XzeroAir",
+    "Quotes": [
+      "Omae wa mou shindeiru!",
+      "Nani!",
+      "Za warudo!!",
+      "OH NO!"
+    ]
+  },
+  {
+    "ID": "14bba455-affa-46d0-9cf0-806cc0f3d454",
+    "Username": "ArtsyDy",
+    "Quotes": [
+      "Omae wa mou shindeiru!",
+      "Nani!",
+      "Za warudo!!",
+      "OH NO!"
+    ]
+  },
+  {
+    "ID": "b2b629a6-454e-4047-a143-4f357171d639",
+    "Username": "Twi1ightStar",
     "Quotes": [
       "Omae wa mou shindeiru!",
       "Nani!",
@@ -146,6 +145,16 @@
       "Omae wa mou shindeiru!",
       "Nani!",
       "Za warudo!!",
+      "OH NO!"
+    ]
+  },
+  {
+    "ID": "2aec2d00-c55f-4235-8e37-cf0140fae979",
+    "Username": "BabzyJae",
+    "Quotes": [
+      "Ow!",
+      "Nani!",
+      "That Tickles!",
       "OH NO!"
     ]
   },
@@ -247,6 +256,16 @@
       "The sun is a planet",
       "You need a little bit of rain to have a little bit of rainbow",
       "The result is irrelevant because the effort was there"
+    ]
+  },
+  {
+    "ID": "9046373a-2c33-4708-819a-524364b7ad52",
+    "Username": "The__Osiris",
+    "Quotes": [
+      "Omae wa mou shindeiru!",
+      "Nani!",
+      "Za warudo!!",
+      "OH NO!"
     ]
   },
   {
