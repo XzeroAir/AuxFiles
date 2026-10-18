@@ -1,4 +1,26 @@
 {
+  "d731a29f9fc0416ab7801d70e76f6f33": {
+    "ID": "d731a29f-9fc0-416a-b780-1d70e76f6f33",
+    "Username": "OneTrickPony24",
+    "Quotes": [
+      "Omae wa mou shindeiru!",
+      "Nani!",
+      "Za warudo!!",
+      "OH NO!"
+    ],
+    "Groups": [
+      {
+        "group": "Vips",
+        "id": 1,
+        "groupQuotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      }
+    ]
+  },
   "b5f4e6cd2e3548eb8b4c9408b1e6449f": {
     "ID": "b5f4e6cd-2e35-48eb-8b4c-9408b1e6449f",
     "Username": "SG_Erebus",
