@@ -1,4 +1,48 @@
 {
+  "b5f4e6cd2e3548eb8b4c9408b1e6449f": {
+    "ID": "b5f4e6cd-2e35-48eb-8b4c-9408b1e6449f",
+    "Username": "SG_Erebus",
+    "Quotes": [
+      "Omae wa mou shindeiru!",
+      "Nani!",
+      "Za warudo!!",
+      "OH NO!"
+    ],
+    "Groups": [
+      {
+        "group": "Vips",
+        "id": 1,
+        "groupQuotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      }
+    ]
+  },
+  "bf5f2c03f9634ef58fdb398ab5b2f1fd": {
+    "ID": "bf5f2c03-f963-4ef5-8fdb-398ab5b2f1fd",
+    "Username": "notblakee",
+    "Quotes": [
+      "Omae wa mou shindeiru!",
+      "Nani!",
+      "Za warudo!!",
+      "OH NO!"
+    ],
+    "Groups": [
+      {
+        "group": "Vips",
+        "id": 1,
+        "groupQuotes": [
+          "Omae wa mou shindeiru!",
+          "Nani!",
+          "Za warudo!!",
+          "OH NO!"
+        ]
+      }
+    ]
+  },
   "5a215d65e57d47c6a3229ede12a4a100": {
     "ID": "5a215d65-e57d-47c6-a322-9ede12a4a100",
     "Username": "PotasticP",
